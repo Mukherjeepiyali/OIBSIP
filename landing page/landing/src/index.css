@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'UrbanJungle'; /* Your custom font name */
+    src: url('../src/assets/fonts/UrbanJungleDEMO.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: 'Delicate Caligraphy';
+    src: url('../src/assets/fonts/Delicate\ Caligraphy\ Demo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'SAMAN___';
+    src: url('../src/assets/fonts/SAMAN___.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
